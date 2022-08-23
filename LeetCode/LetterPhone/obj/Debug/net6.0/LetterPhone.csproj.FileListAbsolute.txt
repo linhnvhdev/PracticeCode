@@ -1,0 +1,15 @@
+D:\Linh\Code\LeetCode\LetterPhone\bin\Debug\net6.0\LetterPhone.exe
+D:\Linh\Code\LeetCode\LetterPhone\bin\Debug\net6.0\LetterPhone.deps.json
+D:\Linh\Code\LeetCode\LetterPhone\bin\Debug\net6.0\LetterPhone.runtimeconfig.json
+D:\Linh\Code\LeetCode\LetterPhone\bin\Debug\net6.0\LetterPhone.dll
+D:\Linh\Code\LeetCode\LetterPhone\bin\Debug\net6.0\LetterPhone.pdb
+D:\Linh\Code\LeetCode\LetterPhone\obj\Debug\net6.0\LetterPhone.csproj.AssemblyReference.cache
+D:\Linh\Code\LeetCode\LetterPhone\obj\Debug\net6.0\LetterPhone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linh\Code\LeetCode\LetterPhone\obj\Debug\net6.0\LetterPhone.AssemblyInfoInputs.cache
+D:\Linh\Code\LeetCode\LetterPhone\obj\Debug\net6.0\LetterPhone.AssemblyInfo.cs
+D:\Linh\Code\LeetCode\LetterPhone\obj\Debug\net6.0\LetterPhone.csproj.CoreCompileInputs.cache
+D:\Linh\Code\LeetCode\LetterPhone\obj\Debug\net6.0\LetterPhone.dll
+D:\Linh\Code\LeetCode\LetterPhone\obj\Debug\net6.0\refint\LetterPhone.dll
+D:\Linh\Code\LeetCode\LetterPhone\obj\Debug\net6.0\LetterPhone.pdb
+D:\Linh\Code\LeetCode\LetterPhone\obj\Debug\net6.0\LetterPhone.genruntimeconfig.cache
+D:\Linh\Code\LeetCode\LetterPhone\obj\Debug\net6.0\ref\LetterPhone.dll

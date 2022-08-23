@@ -1,0 +1,15 @@
+D:\Linh\Code\LeetCode\TwoSums\bin\Debug\net6.0\TwoSums.exe
+D:\Linh\Code\LeetCode\TwoSums\bin\Debug\net6.0\TwoSums.deps.json
+D:\Linh\Code\LeetCode\TwoSums\bin\Debug\net6.0\TwoSums.runtimeconfig.json
+D:\Linh\Code\LeetCode\TwoSums\bin\Debug\net6.0\TwoSums.dll
+D:\Linh\Code\LeetCode\TwoSums\bin\Debug\net6.0\TwoSums.pdb
+D:\Linh\Code\LeetCode\TwoSums\obj\Debug\net6.0\TwoSums.csproj.AssemblyReference.cache
+D:\Linh\Code\LeetCode\TwoSums\obj\Debug\net6.0\TwoSums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linh\Code\LeetCode\TwoSums\obj\Debug\net6.0\TwoSums.AssemblyInfoInputs.cache
+D:\Linh\Code\LeetCode\TwoSums\obj\Debug\net6.0\TwoSums.AssemblyInfo.cs
+D:\Linh\Code\LeetCode\TwoSums\obj\Debug\net6.0\TwoSums.csproj.CoreCompileInputs.cache
+D:\Linh\Code\LeetCode\TwoSums\obj\Debug\net6.0\TwoSums.dll
+D:\Linh\Code\LeetCode\TwoSums\obj\Debug\net6.0\refint\TwoSums.dll
+D:\Linh\Code\LeetCode\TwoSums\obj\Debug\net6.0\TwoSums.pdb
+D:\Linh\Code\LeetCode\TwoSums\obj\Debug\net6.0\TwoSums.genruntimeconfig.cache
+D:\Linh\Code\LeetCode\TwoSums\obj\Debug\net6.0\ref\TwoSums.dll

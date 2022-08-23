@@ -1,0 +1,15 @@
+D:\Linh\Code\LeetCode\LongestPalindrome\bin\Debug\net6.0\LongestPalindrome.exe
+D:\Linh\Code\LeetCode\LongestPalindrome\bin\Debug\net6.0\LongestPalindrome.deps.json
+D:\Linh\Code\LeetCode\LongestPalindrome\bin\Debug\net6.0\LongestPalindrome.runtimeconfig.json
+D:\Linh\Code\LeetCode\LongestPalindrome\bin\Debug\net6.0\LongestPalindrome.dll
+D:\Linh\Code\LeetCode\LongestPalindrome\bin\Debug\net6.0\LongestPalindrome.pdb
+D:\Linh\Code\LeetCode\LongestPalindrome\obj\Debug\net6.0\LongestPalindrome.csproj.AssemblyReference.cache
+D:\Linh\Code\LeetCode\LongestPalindrome\obj\Debug\net6.0\LongestPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linh\Code\LeetCode\LongestPalindrome\obj\Debug\net6.0\LongestPalindrome.AssemblyInfoInputs.cache
+D:\Linh\Code\LeetCode\LongestPalindrome\obj\Debug\net6.0\LongestPalindrome.AssemblyInfo.cs
+D:\Linh\Code\LeetCode\LongestPalindrome\obj\Debug\net6.0\LongestPalindrome.csproj.CoreCompileInputs.cache
+D:\Linh\Code\LeetCode\LongestPalindrome\obj\Debug\net6.0\LongestPalindrome.dll
+D:\Linh\Code\LeetCode\LongestPalindrome\obj\Debug\net6.0\refint\LongestPalindrome.dll
+D:\Linh\Code\LeetCode\LongestPalindrome\obj\Debug\net6.0\LongestPalindrome.pdb
+D:\Linh\Code\LeetCode\LongestPalindrome\obj\Debug\net6.0\LongestPalindrome.genruntimeconfig.cache
+D:\Linh\Code\LeetCode\LongestPalindrome\obj\Debug\net6.0\ref\LongestPalindrome.dll

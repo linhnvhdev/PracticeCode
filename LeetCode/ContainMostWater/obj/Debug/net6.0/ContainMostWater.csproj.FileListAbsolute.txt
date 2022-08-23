@@ -1,0 +1,15 @@
+D:\Linh\Code\LeetCode\ContainMostWater\bin\Debug\net6.0\ContainMostWater.exe
+D:\Linh\Code\LeetCode\ContainMostWater\bin\Debug\net6.0\ContainMostWater.deps.json
+D:\Linh\Code\LeetCode\ContainMostWater\bin\Debug\net6.0\ContainMostWater.runtimeconfig.json
+D:\Linh\Code\LeetCode\ContainMostWater\bin\Debug\net6.0\ContainMostWater.dll
+D:\Linh\Code\LeetCode\ContainMostWater\bin\Debug\net6.0\ContainMostWater.pdb
+D:\Linh\Code\LeetCode\ContainMostWater\obj\Debug\net6.0\ContainMostWater.csproj.AssemblyReference.cache
+D:\Linh\Code\LeetCode\ContainMostWater\obj\Debug\net6.0\ContainMostWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linh\Code\LeetCode\ContainMostWater\obj\Debug\net6.0\ContainMostWater.AssemblyInfoInputs.cache
+D:\Linh\Code\LeetCode\ContainMostWater\obj\Debug\net6.0\ContainMostWater.AssemblyInfo.cs
+D:\Linh\Code\LeetCode\ContainMostWater\obj\Debug\net6.0\ContainMostWater.csproj.CoreCompileInputs.cache
+D:\Linh\Code\LeetCode\ContainMostWater\obj\Debug\net6.0\ContainMostWater.dll
+D:\Linh\Code\LeetCode\ContainMostWater\obj\Debug\net6.0\refint\ContainMostWater.dll
+D:\Linh\Code\LeetCode\ContainMostWater\obj\Debug\net6.0\ContainMostWater.pdb
+D:\Linh\Code\LeetCode\ContainMostWater\obj\Debug\net6.0\ContainMostWater.genruntimeconfig.cache
+D:\Linh\Code\LeetCode\ContainMostWater\obj\Debug\net6.0\ref\ContainMostWater.dll
